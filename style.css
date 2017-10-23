@@ -1,12 +1,13 @@
 body{
-	font-family: 'Cardo', serif;
-	background: #ffff00
+	background-color: #ffff00
 	}
+	
 h1{
 	color: #7fffd4;
 	background: #008b8b;
 	text-align: center;
 	font-size: 25px;
+	font-family: 'Cardo', serif;
 	}
 img{
 	width: 300px;
